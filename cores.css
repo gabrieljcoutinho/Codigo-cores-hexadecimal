@@ -196,8 +196,9 @@
     /*-------------------------------Cores linear gradiente-----------------------------------------*/
     --rosaRoxoAzulad: linear-gradient(135deg, #6a82fb, #fc5c7d);
     --azul: linear-gradient(135deg, #2980b9, #6dd5fa);
-    background: linear-gradient(135deg, #667eea, #764ba2);
-
+    --azulERoxo: linear-gradient(135deg, #667eea, #764ba2);
+    --tonsDeAzul: linear-gradient(174deg, #041833 4.16%, #04244F 48%, #154580 96.76%);
+    --azuisClaros: linear-gradient(to right, #1fa2ff, #12d8fa, #a6ffcb);
 
 
 
